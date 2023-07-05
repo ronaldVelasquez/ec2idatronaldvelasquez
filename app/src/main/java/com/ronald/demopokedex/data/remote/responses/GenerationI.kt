@@ -6,4 +6,5 @@ data class GenerationI(
     @SerializedName("red-blue")
     val redblue: RedBlue,
     val yellow: Yellow
+
 )
